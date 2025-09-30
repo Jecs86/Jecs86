@@ -34,7 +34,7 @@ Me considero una persona comunicativa, con facilidad para trabajar en equipo y a
 ### 📊 App de gestión financiera personal  
 Aplicación para organizar gastos e ingresos de manera sencilla.  
 
-![Gestión financiera](assets/finanzas.png)
+![Gestión financiera](assets/finanzas.jpeg)
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -44,7 +44,7 @@ Aplicación para organizar gastos e ingresos de manera sencilla.
 ### ❌ App Tres en Raya  
 Aplicación del clásico juego de tres en raya con interfaz sencilla.  
 
-![Tres en Raya](assets/tres-en-raya.png)
+![Tres en Raya](assets/tres-en-raya.jpeg)
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
