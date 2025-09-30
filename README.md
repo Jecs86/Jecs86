@@ -10,8 +10,6 @@ proyectos y mis intereses.
 
 ## Acerca de mí
 
-## Acerca de mí
-
 <table>
   <tr>
     <td>
@@ -45,35 +43,31 @@ proyectos y mis intereses.
     <td>
       <h4>📊 App de gestión financiera personal</h4>
       Aplicación para organizar gastos e ingresos de manera sencilla.<br>
-      <b>Tecnologías:</b> 
+      <img src="assets/finanzas.jpeg" alt="Gestión financiera" width="300"/><br>
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="20"/>
       <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="20"/><br>
-      <img src="assets/finanzas.jpeg" alt="Gestión financiera" width="200"/>
     </td>
     <td>
       <h4>❌ App Tres en Raya</h4>
       Aplicación del clásico juego de tres en raya con interfaz sencilla.<br>
-      <b>Tecnologías:</b> 
+      <img src="assets/tres-en-raya.jpeg" alt="Tres en Raya" width="300"/><br>
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="20"/>
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="20"/><br>
-      <img src="assets/tres-en-raya.jpeg" alt="Tres en Raya" width="200"/>
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="20"/>
     </td>
   </tr>
   <tr>
     <td>
       <h4>💣 Buscaminas</h4>
       Implementación del juego de buscaminas con diferentes niveles de dificultad.<br>
-      <b>Tecnologías:</b> 
+      <img src="assets/buscaminas.png" alt="Buscaminas" width="300"/><br>
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="20"/><br>
-      <img src="assets/buscaminas.png" alt="Buscaminas" width="200"/>
     </td>
     <td>
       <h4>🌐 Clon visual de Google.com</h4>
       Clon visual del sitio web Google.com, enfocado en la apariencia y diseño responsive.<br>
-      <b>Tecnologías:</b> 
+      <img src="assets/google-clon.png" alt="Clon Google" width="600"/><br>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="20"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="20"/><br>
-      <img src="assets/google-clon.png" alt="Clon Google" width="200"/>
     </td>
   </tr>
 </table>
