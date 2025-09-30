@@ -17,7 +17,7 @@ proyectos y mis intereses.
     </td>
     <td>
       Soy Joseph Carrera, estudiante de Ciencias de la Computación en la ESPOL, con 20 años de edad.<br>
-      Me apasiona la <b>inteligencia artificial</b> y actualmente me especializo en <b>desarrollo frontend</b>.<br>
+      Me apasiona la <b>inteligencia artificial</b> y actualmente me especializo en <b>desarrollo de web y móvil</b>.<br>
       Me considero una persona comunicativa, con facilidad para trabajar en equipo y aportar a proyectos colaborativos.
     </td>
   </tr>
