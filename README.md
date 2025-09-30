@@ -12,10 +12,21 @@ proyectos y mis intereses.
 
 ## Acerca de mí
 
-Soy Joseph Carrera, estudiante de Ciencias de la Computación en la ESPOL, con 20 años de edad.  
-Me apasiona la **inteligencia artificial** y actualmente me especializo en **desarrollo frontend**.  
+## Acerca de mí
 
-Me considero una persona comunicativa, con facilidad para trabajar en equipo y aportar a proyectos colaborativos.  
+<table>
+  <tr>
+    <td>
+      <img src="assets/foto_perfil.jpg" alt="Joseph Carrera" width="150"/>
+    </td>
+    <td>
+      Soy Joseph Carrera, estudiante de Ciencias de la Computación en la ESPOL, con 20 años de edad.<br>
+      Me apasiona la <b>inteligencia artificial</b> y actualmente me especializo en <b>desarrollo frontend</b>.<br>
+      Me considero una persona comunicativa, con facilidad para trabajar en equipo y aportar a proyectos colaborativos.
+    </td>
+  </tr>
+</table>
+
 
 ## Tecnologías
 
@@ -31,43 +42,43 @@ Me considero una persona comunicativa, con facilidad para trabajar en equipo y a
 
 ## Proyectos
 
-### 📊 App de gestión financiera personal  
-Aplicación para organizar gastos e ingresos de manera sencilla.  
-
-![Gestión financiera](assets/finanzas.jpeg)
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
----
-
-### ❌ App Tres en Raya  
-Aplicación del clásico juego de tres en raya con interfaz sencilla.  
-
-![Tres en Raya](assets/tres-en-raya.jpeg)
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
----
-
-### 💣 Buscaminas  
-Implementación del juego de buscaminas con diferentes niveles de dificultad.
-
-![Buscaminas](assets/buscaminas.png)
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
----
-
-### 🌐 Clon visual de Google.com  
-Clon visual del sitio web Google.com, enfocado en la apariencia y diseño responsive.
-
-![Clon Google](assets/google-clon.png)
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
+<table>
+  <tr>
+    <td>
+      <h4>📊 App de gestión financiera personal</h4>
+      Aplicación para organizar gastos e ingresos de manera sencilla.<br>
+      <b>Tecnologías:</b> 
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="20"/>
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="20"/><br>
+      <img src="assets/finanzas.jpeg" alt="Gestión financiera" width="200"/>
+    </td>
+    <td>
+      <h4>❌ App Tres en Raya</h4>
+      Aplicación del clásico juego de tres en raya con interfaz sencilla.<br>
+      <b>Tecnologías:</b> 
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="20"/>
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="20"/><br>
+      <img src="assets/tres-en-raya.jpeg" alt="Tres en Raya" width="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>💣 Buscaminas</h4>
+      Implementación del juego de buscaminas con diferentes niveles de dificultad.<br>
+      <b>Tecnologías:</b> 
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="20"/><br>
+      <img src="assets/buscaminas.png" alt="Buscaminas" width="200"/>
+    </td>
+    <td>
+      <h4>🌐 Clon visual de Google.com</h4>
+      Clon visual del sitio web Google.com, enfocado en la apariencia y diseño responsive.<br>
+      <b>Tecnologías:</b> 
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="20"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="20"/><br>
+      <img src="assets/google-clon.png" alt="Clon Google" width="200"/>
+    </td>
+  </tr>
+</table>
   
 ## Intereses
 
