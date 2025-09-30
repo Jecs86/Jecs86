@@ -34,7 +34,7 @@ Me considero una persona comunicativa, con facilidad para trabajar en equipo y a
 ### 📊 App de gestión financiera personal  
 Aplicación para organizar gastos e ingresos de manera sencilla.  
 
-![Gestión financiera](assets/finanzas.jpeg)
+<img src="assets/finanzas.jpeg" alt="Gestión financiera" width="300"/>
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -44,7 +44,7 @@ Aplicación para organizar gastos e ingresos de manera sencilla.
 ### ❌ App Tres en Raya  
 Aplicación del clásico juego de tres en raya con interfaz sencilla.  
 
-![Tres en Raya](assets/tres-en-raya.jpeg)
+<img src="assets/tres-en-raya.jpeg" alt="Tres en Raya" width="300"/>
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -54,7 +54,7 @@ Aplicación del clásico juego de tres en raya con interfaz sencilla.
 ### 💣 Buscaminas  
 Implementación del juego de buscaminas con diferentes niveles de dificultad.
 
-![Buscaminas](assets/buscaminas.png)
+<img src="assets/buscaminas.png" alt="Buscaminas" width="300"/>
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
@@ -63,7 +63,7 @@ Implementación del juego de buscaminas con diferentes niveles de dificultad.
 ### 🌐 Clon visual de Google.com  
 Clon visual del sitio web Google.com, enfocado en la apariencia y diseño responsive.
 
-![Clon Google](assets/google-clon.png)
+<img src="assets/google-clon.png" alt="Clon Google" width="600"/>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
