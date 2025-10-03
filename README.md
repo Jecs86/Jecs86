@@ -13,7 +13,7 @@ proyectos y mis intereses.
 <table>
   <tr>
     <td>
-      <img src="assets/foto_perfil.jpg" alt="Joseph Carrera" width="150"/>
+      <img src="assets/profile_picture.png" alt="Joseph Carrera" width="150"/>
     </td>
     <td>
       Soy Joseph Carrera, estudiante de Ciencias de la Computación en la ESPOL, con 20 años de edad.<br>
